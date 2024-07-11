@@ -1,6 +1,7 @@
 HR Dashboard (Employee Analysis):
 
 Overview:
+
 Welcome to the HR Dashboard project! This interactive dashboard, built with Power BI, offers a comprehensive analysis of employee data, providing key insights that can drive strategic HR decisions.
 
 Features:
