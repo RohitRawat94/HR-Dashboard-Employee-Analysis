@@ -5,20 +5,20 @@ Welcome to the HR Dashboard project! This interactive dashboard, built with Powe
 
 Features:
 Employee Distribution- 
-By Department: Visual breakdown of employees across various departments.
-By Job Level: Detailed view of the number of employees at each job level.
+1. By Department: Visual breakdown of employees across various departments.
+2. By Job Level: Detailed view of the number of employees at each job level.
 Demographics-
-Gender Distribution: Clear visualization of the male and female workforce.
-Business Travel: Insights into the frequency of business travel among employees.
-Service Years: Analysis of employees based on their tenure within the company.
+1.Gender Distribution: Clear visualization of the male and female workforce.
+2. Business Travel: Insights into the frequency of business travel among employees.
+3. Service Years: Analysis of employees based on their tenure within the company.
 Performance and Satisfaction-
-Promotion Eligibility: Identification of employees who are due for promotion.
-Commuting Distance: Categorization of employees based on their distance from work.
-Monthly Income: Distribution of total monthly income across the workforce.
-Overtime Analysis: Overview of employees working overtime.
-Satisfaction Levels: Employee satisfaction with job roles, work environment, and relationships at work.
+1. Promotion Eligibility: Identification of employees who are due for promotion.
+2. Commuting Distance: Categorization of employees based on their distance from work.
+3. Monthly Income: Distribution of total monthly income across the workforce.
+4. Overtime Analysis: Overview of employees working overtime.
+5. Satisfaction Levels: Employee satisfaction with job roles, work environment, and relationships at work.
 Risk Assessment-
-Layoff Prediction: Highlighting employees at risk of being laid off.
+1. Layoff Prediction: Highlighting employees at risk of being laid off.
 
 Visuals:
 The dashboard uses a variety of visuals such as bar charts, pie charts, and tables to present data intuitively. Key metrics are highlighted to ensure quick and actionable insights.
